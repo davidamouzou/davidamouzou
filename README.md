@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est David Amouzou
+# 👋 Salut, moi c'est David
 
 **Data Scientist & Full Stack Developer passionné par l'IA et la transformation digitale des entreprises.**
 
