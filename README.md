@@ -16,7 +16,7 @@
 
 ## 🚀 Projets phares
 
-- [coooke-api](https://github.com/davidamouzou/coooke-api) : API de génération de recettes (Python)
+- [cook Mate](https://github.com/davidamouzou/coooke-api) : Générateur de recettes
 - [credit-default-prediction](https://github.com/davidamouzou/credit-default-prediction) : Prédiction du défaut de crédit (Jupyter)
 - [EDA-Explorer](https://github.com/davidamouzou/EDA-Explorer) : Analyse exploratoire (Jupyter)
 - [Student-performance-predict](https://github.com/davidamouzou/Student-performance-predict) : Prédiction de performance scolaire (Jupyter)
