@@ -42,8 +42,7 @@
 ```python
 david = {
     "role"      : "Data Engineer & AI Builder",
-    "education" : "M2 Data Engineering & Cloud @ ESSIN",
-    "location"  : "Nantes, France 🇫🇷",
+    "education" : "Data Engineering & Cloud @ ESSIN",
     "goal"      : "Build AI systems that actually matter",
     "trophy"    : "🏆 1st Place — Datathon IA School 2025"
 }
