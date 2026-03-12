@@ -44,8 +44,6 @@ david = {
     "role"      : "Data Engineer & AI Builder",
     "education" : "M2 Data Engineering & Cloud @ ESSIN",
     "location"  : "Nantes, France 🇫🇷",
-    "status"    : "🟢 Open to alternance (Sept. 2026)",
-    "rhythm"    : "1 week school / 3 weeks company",
     "goal"      : "Build AI systems that actually matter",
     "trophy"    : "🏆 1st Place — Datathon IA School 2025"
 }
