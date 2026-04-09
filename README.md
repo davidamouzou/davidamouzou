@@ -35,8 +35,6 @@
 
 ---
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=davidamouzou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
 ### `$ whoami`
 
 ```python
@@ -44,7 +42,6 @@ david = {
     "role"      : "Data Engineer & AI Builder",
     "education" : "Data Engineering & Cloud @ ESSIN",
     "goal"      : "Build AI systems that actually matter",
-    "trophy"    : "🏆 1st Place — Datathon IA School 2025"
 }
 ```
 
@@ -70,15 +67,6 @@ david = {
 ---
 
 ### `$ cat projects/highlights.json`
-
-<details>
-<summary><b>🏆 Ravenfox — Datathon IA School 2025 · 1st Place</b></summary>
-
-> Conception d'un chatbot intelligent combinant **LLM + NLP** avec des dashboards **Power BI** pour l'analyse décisionnelle. Solution primée parmi toutes les équipes participantes.
-
-**Stack:** `Python` `LangChain` `Power BI` `RAG` `NLP`
-
-</details>
 
 <details>
 <summary><b>🛡️ PhishGuard — Détection de phishing par NLP</b></summary>
@@ -123,7 +111,7 @@ david = {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidamouzou&theme=tokyonight&hide_border=true" width="48%" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidamouzou&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="38%" />
+ 
 </div>
 
 ---
